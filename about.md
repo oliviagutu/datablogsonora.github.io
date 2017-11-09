@@ -1,15 +1,10 @@
 ---
 layout: page
-title: Quienes somos
+title: ¿Porqué este *blog*?
 permalink: /about/
 ---
 
-Profesores del Departamento de Matemáticas de la Universidad de Sonora  que dentro del área de las ciencias de la computación estamos interesados particularmente en la ciencia de datos, el aprendizaje máquina y las técnicas de desarrollo de software relacionado a estas áreas.
-
-### ¿Porqué este blog?
-
-La idea de este blog es hacer difusión ...
-
+En años recientes, el manejo adecuado de la cantidad cada vez más grande de datos disponibles se ha convertido en un factor fundamental para el desarrollo. Bla bla bla.
 
 ### Contáctanos
 
