@@ -16,7 +16,7 @@ No es de extrañar, que se necesite una gran cantidad de energía para fabricar 
 ![Emerging trends](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/emergingtrends.png?raw=true)
 
 En ese mismo estudio, Corcoran y Andrae hacen una comparativa entre la demanda del sector de las TI y los principales paises consumidores de energía. Como se ilustra en la siguiente gráfica, en el año 2012, el sector de las TI se posiciona sólo por debajo de China y Estados Unidos con 1,817 billones kWh.
-![Emerging trends](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/comparativaTI_countries_2012.png)
+![Emerging trends](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/comparativaTI_countries_2012.png?raw=true)
 
 Por otro lado, Andrae y Edler en su artículo [On Global Electricity Usage of Communication Technology: Trends to 2030](http://www.mdpi.com/2078-1547/6/1/117) mencionan que de cara al futuro, las estimaciones globales de la demanda de los centros de datos en 2030 anticipan un aumento de 3 a 10 veces los niveles actuales, pudiendo alcanzar hasta el 13% de la demanda de energía del consumo mundial.
 
