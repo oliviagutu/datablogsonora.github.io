@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La brecha tecnológica entre países y los lenguajes de programación
-author: Julio Waissman
+author: Julio Waissman (julio.waissman@unison.mx)
 date: 2017-11-8
 ---
 
