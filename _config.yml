@@ -9,7 +9,7 @@ name: Data blog Sonora
 description: Blog sobre ciencia de datos y aprendizaje máquina.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: avatar.png
+avatar: # avatar.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: datablogsonora/datablogsonora
+  github: # datablogsonora/datablogsonora
   instagram:
   linkedin:
   pinterest:
@@ -34,10 +34,10 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: datablogsonora
+disqus: # datablogsonora
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-109425944-1
+google_analytics: # UA-109425944-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
