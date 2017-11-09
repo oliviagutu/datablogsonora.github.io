@@ -22,20 +22,20 @@ Por otro lado, Andrae y Edler en su artículo [On Global Electricity Usage of Co
 
 El crecimiento imparable de consumo digital está impulsando nuevas inversiones en infraestructura digital, en particular en los Centros de Datos hambrientos de energía. Debido a esto, han surgido varias iniciativas enfocadas en el consumo de energía 100% renovable. Desde sus inicios, dichas iniciativas han sido impulsadas por las principales compañías de internet. Estas acciones envían una señale muy importantes a todas aquellas empresas de servicios públicos y legisladores: las empresas líderes hoy quieren y esperan acceso a fuentes de electricidad renovables. Estos compromisos han impulsado un incremento de la firma de contratos de oferta de energía renovable en los Estados Unidos, con más de 3.4GW de acuerdos firmados en 2015 (más de dos tercios de las ofertas corresponden a compañías de TI). En la siguiente gráfica se ilustra los contratos de energía renovable de 2010-2016 (MW) del sector de las TI.
 
-![Contratos energía renovable](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/contratos.png)
+![Contratos energía renovable](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/contratos.png?raw=true)
 
 La primer compañía en asumir el compromiso de empezar con este cambio fue Facebook en 2011, sumándose Apple y Google al año siguiente.
 
-![Compromisos energía renovable](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/compromisos.png)
+![Compromisos energía renovable](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/compromisos.png?raw=true)
 
 [Greenpace](http://www.greenpeace.org) en su reporte anual [Clicking clean:who is winning the race to build a green internet](http://www.greenpeace.org/international/en/publications/Campaign-reports/Climate-Reports/clicking-clean-2017/) muestra el porcentaje del tipo de energía utilizada por las principales compañías de tecnología. Para esto, la organización utiliza su propia metodología (explicada en el mismo reporte) la cual les permite asignar una clasificación (de la A a la F) de acuerdo al nivel de compromiso. A continuación se ilustran los resultados obtenidos hasta el 2016.
 
-![Clicking clean](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/clean.png)
+![Clicking clean](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/clean.png?raw=true)
 
 Según el sitio [Data Center Knowledge](http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/) "Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". 
 
 Desde 2010, Google ha invertido cerca de $2.5 billones de dólares en proyectos de energías renovables, lo cual representa un total de 3.7 GW de energía limpia. Por otra parte, es considerado el mayor comprador de energía renovable, ya que hasta la fecha ha firmado 20 acuerdos para comprar 2.6 GW de energía renovable, equivalente a sacar a más de 1,2 millones de autos de la carretera.
 
-![Centro de datos de Google](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/google-datacenter-tech-05.jpg)
+![Centro de datos de Google](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/google-datacenter-tech-05.jpg?raw=true)
 
 Por último, según [Google Environmental Report](https://environment.google/) los centros de datos de google utilizan un 50% menos de energía que los centros de datos habituales. Es por esto, que varias empresas han empezado a utilizar aplicaciones de Google, con el fin de reducir gastos de cómputo, de electricidad, así como de emisiones de dióxido de carbono del 65% hasta un 85%. Asimismo, las empresas que utilizan Gmail han reducido su impacto medioambiental hasta un 98% con respecto a aquellas que ejecutan el correo electrónico en servidores locales. Por lo tanto, gracias a los esfuerzos de eficiencia energética de Google, la nube es mejor para el medio ambiente. Esto significa que las empresas que utilizan sus productos basados en la nube son también más ecológicas.
