@@ -1,11 +1,8 @@
 ---
 layout: page
-title: ¿Porqué este *blog*?
+title: Sugerencias, dudas, opiniones, ...
 permalink: /about/
 ---
 
-En años recientes, el manejo adecuado de la cantidad cada vez más grande de datos disponibles se ha convertido en un factor fundamental para el desarrollo. Bla bla bla.
+- Por correo electónico en [datablogsonora@gmail.com](mailto:datablogsonora@gmail.com)
 
-### Contáctanos
-
-[datablogsonora@gmail.com](mailto:datablogsonora@gmail.com)
