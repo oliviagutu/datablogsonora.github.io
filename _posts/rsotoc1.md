@@ -8,9 +8,6 @@ date: ...
 
 # Ambigüedad en el lenguaje natural
 
-… y desambiguación en procesamiento de lenguaje natural
-
-
 Dr. Ramón Soto de la Cruz (ramon.soto@unison.mx)
 
 Se entiende por ambigüedad la cualidad de una situación, como un dicho, un evento, la actitud de una persona, etc., "que puede entenderse de varios modos o admitir distintas interpretaciones y dar, por consiguiente, motivo a dudas, incertidumbre o confusión" (drae).
