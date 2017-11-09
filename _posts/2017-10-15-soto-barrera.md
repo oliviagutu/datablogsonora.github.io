@@ -34,7 +34,7 @@ La primer compañía en asumir el compromiso de empezar con este cambio fue Face
 
 Según el sitio [Data Center Knowledge](http://www.datacenterknowledge.com/archives/2012/01/19/google-our-data-centers-are-good-neighbors/) "Google ha sido líder de la industria a la hora de revelar información sobre la eficiencia energética y el consumo de energía de sus centros de datos, así como sobre las estrategias para reciclar el agua con el objeto de reducir el impacto de sus instalaciones en comunidades locales". 
 
-Desde 2010, Google ha invertido cerca de $2.5 billones de dólares en proyectos de energías renovables, lo cual representa un total de 3.7 GW de energía limpia. Por otra parte, es considerado el mayor comprador de energía renovable, ya que hasta la fecha ha firmado 20 acuerdos para comprar 2.6 GW de energía renovable, equivalente a sacar a más de 1,2 millones de autos de la carretera.
+Desde 2010, Google ha invertido cerca de $2.5 billones de dólares en proyectos de energías renovables, lo cual representa un total de 3.7 GW de energía limpia. Por otra parte, es considerado el mayor comprador de energía renovable, ya que hasta la fecha ha firmado 20 acuerdos para comprar 2.6 GW de energía renovable, equivalente a sacar a más de 1.2 millones de autos de la carretera.
 
 ![Centro de datos de Google](https://github.com/jpsotob/google-compromiso-cambio-climatico/blob/master/images/google-datacenter-tech-05.jpg?raw=true)
 
