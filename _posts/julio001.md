@@ -41,7 +41,7 @@ puede ver la relación entre visitas realizadas de paises
 *desarrollados* y *en vías de desarrollo* en relación a la cantidad
 total de visitas.
 
-![Diferencias de tecnologías entre paises desarrollados y en vías de desarrollo](imagenes/tech_difference_graph.png)
+![Diferencias de tecnologías entre paises desarrollados y en vías de desarrollo](https://github.com/juliowaissman/blog-personal/blob/master/imagenes/tech_difference_graph.png?raw=true)
 
 En la gráfica podemos ver que las etiquetas más consultadas fueron
 `java`, `javascript`, `python` y `c#` en ese orden. Mientras que
@@ -59,7 +59,7 @@ genera un gráfico con la relación del PIB per cápita con porcentaje de
 entradas por pais se obtiene un resultado muy interesante, tal como se
 ve en la figura.
 
-![Comparación del porcentaje de visitas con el PIB per cápita por pais](imagenes/tag_gdp_compare.png)
+![Comparación del porcentaje de visitas con el PIB per cápita por pais](https://github.com/juliowaissman/blog-personal/blob/master/imagenes/tag_gdp_compare.png?raw=true)
 
 
 Estos resultados se pueden deber a dos posibles situaciones:
@@ -104,7 +104,7 @@ tecnologías en los países en vías de desarrollo, su crecimiento es
 similar al experimentado por los países desarrollados, como podemos
 ver en la siguiente figura.
 
-![Crecimiento de Python en los paises en vías de desarrollo](imagenes/non_high_income_graph_python.png)
+![Crecimiento de Python en los paises en vías de desarrollo](https://github.com/juliowaissman/blog-personal/blob/master/imagenes/non_high_income_graph_python.png?raw=true)
 
 
 De acuerdo a este estudio, puede intuirse que el desarrollo de
