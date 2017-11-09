@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La brecha tecnológica entre países desarrollados y en vías de desarrollo vista por los lenguajes de programación
+title: La brecha tecnológica entre países y los lenguajes de programación
 author: Julio Waissman
 date: 2017-11-8
 ---
@@ -17,19 +17,19 @@ lenguajes de programación que utilizan los desarrolladores en los
 países considerados como *desarrollados* a las que se utilizan en los
 países considerados en *vías de desarrollo*. 
 
-*Stack Overflow* es, por amplio margen, el foro preferido por la
+*Stack Overflow* es, por goleada, el foro preferido por la
 mayoría de los desarrolladores. *Stack Oerflow* no es solamente un
 foro de preguntas y respuestas, ya que se a convertido básicamente en
 la fuente de documentación primaria para la mayoría de los
-desarrolladores, en básicamente dos los lenguajes de
+desarrolladores en prácticamente todos los lenguajes de
 programación. Cada pregunta es clasificada por etiquetas sobre la
 tecnología, sistema operativo, lenguaje de programación, y otra
 información que sirva para reagrupar las ideas. Esto permite seguir
 rápidamente las preguntas y respuestas. 
 
 La metodología utilizada fue la siguiente: Se revisaron las 250
-etiquetas más populares de las visitas realizadas entradas
-(preguntas/respuestas) entre enero y agosto de 2017. Para hacer un
+etiquetas más populares de las visitas realizadas a entradas
+(preguntas/respuestas) del foro entre enero y agosto de 2017. Para hacer un
 análisis más robusto, se utilizó únicamente la información de 64
 países, los cuales tuvieran *al menos* cinco millones de visitas en el
 período de tiempo del análisis. La diferenciación entre paises
@@ -47,15 +47,15 @@ total de visitas.
 En la gráfica podemos ver que las etiquetas más consultadas fueron
 `java`, `javascript`, `python` y `c#` en ese orden. Mientras que
 `java` y `javascript` son ligeramente más consultados desde países en
-vías de desarrollo, `pythn`es más consultado por países
+vías de desarrollo, `python`es más consultado por países
 desarrollados. Igualmente podemos ver que hay tecnologias (como
 `ggplot2`, una herramienta del lenguaje de programación `R`) que son
-cláramente consultados en paises desarrollados, otras que son
+cláramente consultados en paises desarrollados, mientras que otras son
 cláramente tecnologías que se utilizan en países en vías de desarrollo
 (como `laravel`, un *framework* para el lenguaje *php*).
 
 Si reagrupamos las mayoría de dichas etiquetas en cuatro grandes
-grupos (`android`, `php`, python` y `R`) y por cada una de ellas se
+grupos (`android`, `php`, `python` y `R`) y por cada una de ellas se
 genera un gráfico con la relación del PIB per cápita con porcentaje de
 entradas por pais se obtiene un resultado muy interesante, tal como se
 ve en la figura.
@@ -70,10 +70,10 @@ Estos resultados se pueden deber a dos posibles situaciones:
    desarrollados**. Los lenguajes *Python* y *R* están claramente
    asociados a países desarrollados (*Python* tiene el doble de
    entradas en los países desarrollados y *R* es visitado
-   aproximadamente trés veces más que en los países en vías de
-   desarrollo). Es de notarse que, entre las etiquetas asociadas a
-   estos lenguajes que marcaron la diferencia se encuentran
-   bibliotecas y paquetes de corte científico (muy utilizado en
+   aproximadamente trés veces más en los países desarrollados que en los considerados en vías de
+   desarrollo). Es notable que entre las etiquetas asociadas a
+   estos lenguajes, y que marcaron la diferencia, se encuentran
+   bibliotecas y paquetes de corte científico (muy utilizados en
    ciencia de datos) tales como `ggplot2`, `matplotlib`, `numpy` o
    `pandas`. Esto sugiere que la brecha económica entre países está
    correlacionada a una diferencia en el manejo de tecnología. Los
@@ -84,8 +84,8 @@ Estos resultados se pueden deber a dos posibles situaciones:
 2. **Los países en vías de desarrollo explotan la subcontratación**.El
    desarrollo de aplicaciones para *Android* así como en *PHP* está
    asociado claramente con los países en vías de desarrollo, En
-   particular *CodeIgnter*, un *framework* para *PHP* es la etiqueta
-   mas desproporcionada visitada por un gran margen desde paises en
+   particular *CodeIgniter*, un *framework* para *PHP* es la etiqueta
+   mas desproporcionadamente visitada desde paises en
    vías de desarrollo del sur de Asia. Casi todas las etiquetas con
    mayor margen para los países en vías de desarrollo están asociados
    a aplicaciones web y/o aplicaciones móviles, típicamente
@@ -119,7 +119,7 @@ Si queremos que nuestra región sea puntera en el desarrollo de
 profesionales con conocimientos y bases técnicas y teóricas que
 permitan utilizar las herramientas avanzadas relacionadas con los
 lenguajes de programación *Python* y *R*. Es de destacar que para el
-uso de estas tecnologías se requiere de formación formal en áreas como
+uso de estas tecnologías en ciencia de datos se requiere conocimientos en áreas como
 álgebra lineal, estadística y optimización, así como experiencia en el
 manejo y tratamiento de datos. 
 
