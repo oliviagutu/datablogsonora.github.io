@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La brecha tecnológica entre países desarrollados y en vías de desarrollo vista por los lenguajes de programación
+author: Julio Waissman
 date: 2017-11-8
 ---
 
