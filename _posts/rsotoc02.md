@@ -1,0 +1,37 @@
+---
+layout: post
+title: Adaptarse a la fuerza milenial
+author: Ramón Soto de la Cruz
+date: ...
+---
+
+# Adaptarse a la fuerza milenial
+
+Dr. Ramón Soto de la Cruz (ramon.soto@unison.mx)
+
+Aunque no existen definiciones precisas para una categorización de las generaciones humanas recientes en términos de una clasificación que es de por sí arbitraria, se ha vuelto popular la distinción entre 2 a 4 generaciones de personas nacidas después de (o durante) la Segunda Guerra Mundial: 
+
+*	Los Baby Boomers, nacidos entre mediados de los 40 (1944-1946, según el gusto) y principios de los 60 (1960-1964),
+*	La Generación X, nacidos entre mediados de los 60 (1960-1965) y principios de los 80 (1979-1981),
+*	La Generación Y, los famosos milenials, nacidos entre principios de los 80 (1980-1982) y mediados a fines de los 90 (1994-2000) y
+*	La Generación Z, Post-Milenials o centennials, nacidos entre mediados de los 90 (1995-2000) y hasta la fecha (o según algunos autores, hasta el 2010).
+
+Otro punto, en el que parece haber cierto consenso, es en el estereotipo del milenial como malcriado, egoísta, irresponsable, sin plan de vida y a la expectativa de recompensas que no se merece. Al margen de la validez que pueda tener este estereotipo, un hecho es irrefutable: este grupo demográfico representa la principal fuerza laboral en México (y el resto del mundo). Se estima que el número de milenials en México es de aproximadamente 46 millones, es decir, aproximadamente la tercera parte de la población y, lo que es particularmente importante, alrededor del 85% de la población económicamente activa (según datos del Censo de Población y Vivienda de 2010). De manera que no es viable esperar a la siguiente generación y tampoco es realista esperar que se pueda modificar la actitud de toda una generación que representa nuestro relevo. En su lugar, es necesario entender cuáles son los elementos que caracterizan a esta generación, qué es lo que los motiva y cómo les pasamos la estafeta (quisiera recordar cierta frase zen que hablaba del río que rodea a la roca, sin enfrentarla, adaptándose a ella y puliéndola con perseverancia… pero no la recuerdo).
+
+![](https://github.com/rsotoc/images_blog/blob/master/mill01.png)
+
+Una característica importante de los milenials es su grado de escolaridad; el 49.2 por ciento de los milenials a nivel nacional cuenta con al menos educación media superior, en comparación con el 37.5 de la Generación X (Reporte sobre las Economías Regionales Abril – Junio 2017, Banco de México). Pero, además de tratarse de una generación educada, es también una generación autodidacta y acostumbrada a la adopción rápida (casi instantánea) de nuevas tecnologías. Estas características la hacen una fuerza laboral particularmente interesante en áreas de ingeniería y, particularmente, en la industria de TI.
+
+Se ha dicho también que es muy difícil retener a los milenials, lo cual es cierto. Sólo en los Estados Unidos, se calcula que la rotación de personal entre los milenials tiene un costo anual de $30.5 billones de dólares; el 60% de estos jóvenes manifiestan estar abiertos a diferentes oportunidades de trabajo y entre el 40 y 50% no tienen contemplado permanecer más de 3 años en su empleo actual (Gallup, 2017). Sin embargo, derivar de estos datos conclusiones acerca de la falta de lealtad del milenial y/o dudar de que tengan un proyecto de vida claro a largo plazo, es, por lo menos, un poco apresurado. La Encuesta Millenials 2017 de Deloitte, por ejemplo, resalta el deseo de los milenials, en los mercados emergentes, de ser mejores que sus padres; en el plano económico, pero también en el plano “emocional”. De esta manera, no es de extrañar la propensión de los milenials a buscar mejores oportunidades de trabajo, siendo su principal prioridad el conseguir un mejor salario. Pero, por otra parte, se observa una fuerte correlación entre el nivel de lealtad de los milenials hacia su empleo actual y la percepción que ellos tienen acerca de la importancia del trabajo que realizan. 
+
+Otro resultado interesante de esta encuesta, es la importancia que esta generación le da al lenguaje directo y sin rodeos. Este resultado, refleja, por ejemplo, una característica que es fácil observar, particularmente entre los milenials con formación universitaria: su poca o nula aceptación al lenguaje “motivador” tradicional. Frases conocidas, como aquella atribuida a Franklin D. Roosevelt, “Siempre que te pregunten si puedes hacer un trabajo, contesta que sí y ponte enseguida a aprender cómo se hace” o la frase de Walt Disney, “Si puedes soñarlo, puedes hacerlo”, en el mejor de los casos arrancarán una sonrisa socarrona del empleado milenial, en el peor de los casos ocasiona una pérdida de respeto en el jefe que la pronuncia. Así mismo, son contraproducentes las frases motivacionales ambiguas: “Aquellos que trabajan de bien y con buenos ánimos, son los que al final son recompensados, por ello te invito a trabajar de manera esforzada y con dedicación” o “Esta empresa no sería la misma si no contáramos con su trabajo, nos sentimos felices de que sea parte de nuestra familia”. El milenial quiere saber cuál es su papel en la empresa, porque es importante y qué beneficios le proporciona a él, no si forma parte de “una familia” que lo recompensará en algún momento no definido. La encuesta de MRINetwork, 2017 Millenial Hiring Trends Survey, por ejemplo, destaca que el recurso con mayor impacto para retener a los milenials es un plan claro de carrera, que muestre una trayectoria incremental de roles para progresar en la empresa, mientras que éste es el segundo elemento en importancia para aceptar una nueva oferta de empleo, sólo 2% por abajo de la compensación económica.
+
+![](https://github.com/rsotoc/images_blog/blob/master/mill02.png)
+
+La encuesta de Deloitte muestra también que, aunque la mayoría de los milenials encuestados siguen destacando la flexibilidad como una característica fundamental para su vida laboral, el 65% dice que preferiría tener un trabajo de tiempo completo, en lugar de desempeñarse como freelance o consultor. Este resultado es congruente, de hecho, con la imagen positiva que tienen la mayoría de los milenials acerca de las empresas, lo mismo en términos de su impacto como de su responsabilidad en la sociedad en la que operan.
+
+Una reflexión final que tomamos del reporte de la encuesta de MRINetwork, es como, a pesar de que los tiempos de que los milenials tomen el relevo en posiciones gerenciales y ejecutivas, la mayoría de las empresas no están especialmente enfocadas en atraer a los milenials. Más aún, son pocas las empresas que están desarrollando las estrategias necesarias para adaptarse a esta fuerza que, inevitablemente, es la que está tomando la estafeta, particularmente en la industria de TI.
+
+
+[Versión para imprimir/guardar/descargar...](https://github.com/rsotoc/images_blog/blob/master/Millenials%20y%20la%20industria%20de%20TI.pdf)
+<hr>
