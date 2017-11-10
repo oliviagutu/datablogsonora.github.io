@@ -13,6 +13,8 @@ layout: defpost
   <div class="date">
     Fecha de publicación: {{ page.date | date: "%e/%m/%Y" }}
   </div>
+  
+  {% include share-bar.html %}
 
   {% include disqus.html %}
 </article>
