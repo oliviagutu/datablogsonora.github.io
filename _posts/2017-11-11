@@ -1,0 +1,60 @@
+---
+layout: post
+title: Colaboración en control industrial
+author: Pedro Flores Pérez
+date: 2017-11-11
+---
+
+En la industria existen un gran número de compañías que se dedican a elaborar productos que pasan por varias 
+etapas en donde la forma de cómo se procesan en cada etapa puede cambiar. 
+Por control industrial se entiende el establecimiento de metodologías que permiten establecer formas de operación y
+condiciones para cada etapa con el fin de que los productos tengan ciertas características deseadas. En este artículo se 
+presentan: las bases del control industrial y las experiencias que se tienen en la Licenciatura en Ciencias de la Computación
+que pudieran utilizarse para la resolución de problemas de la industria.
+
+En la mayoría de las plantas industriales de los países desarrollados, los responsables de administrar la producción tienen, 
+dentro de sus tareas principales, la obligación de implementar políticas y procedimientos que permitan contar con información 
+histórica precisa sobre los diversos procesos que ahí se realizan con el fin de que sirvan para: detectar y resolver problemas,
+mejorar la producción y/o diseñar sistemas de control para los mismos. Dicha información histórica normalmente se presenta en 
+documentos dentro de tablas, en donde se pueden distinguir tres bloques. En el primer bloque de datos aparece la información 
+de las características más importantes (o que se pueden medir) del material que en cierto momento se está procesando.
+En el segundo bloque se presenta la información de la forma en que se está operando en dicho momento el proceso y en el 
+último bloque aparecen las características del material producido.
+
+Cabe agregar que, en un proceso industrial, puede haber varias etapas donde las estradas en una etapa son salidas en otra 
+y así sucesivamente. Por esta razón, la etapa más simple de un proceso industrial la podemos representar por medio de un 
+diagrama de caja negra en donde las entradas son de dos tipos con un sólo tipo de salida (Fig. 1.). Los datos en el primer 
+tipo de entradas corresponderían a los valores de las características de los materiales que se están alimentando al proceso 
+y los del segundo tipo a las variables que representan las condiciones de operación del proceso. Los datos de las entradas 
+son los candidatos a ser modelados por medio de una metodología estadística conocida como Series de Tiempo (ST).
+
+
+            
+Figura 1.
+
+En el caso de que se pueda construir un buen modelo que prediga los valores de las salidas en términos de los valores de 
+entrada es posible realizar el control industrial del proceso que consiste en encontrar condiciones de operación que permitan,
+bajo distintas condiciones de los materiales de entrada, que las características de los productos sean lo mejor posible. 
+Cuando se puede construir una función que modela la salida en términos de las entradas a esta función se le denomina 
+Función de Transferencia (FT).
+
+Dentro de los posibles modelos a utilizar, los modelos lineales para ST y FT son los más fáciles de trabajar y 
+presentan un mayor rango de aplicaciones posibles. Además, pueden ser la base para construir otros modelos más complicados. 
+Cuando se tiene un modelo que es lineal pero requiere de alguna pequeña modificación para adecuarse mejor a los datos, 
+diremos que se trata de un modelo cuasi-lineal. Existen otros tipos de modelos para estos problemas basados en técnicas 
+de inteligencia artificial como *machine learning*.
+
+En la Licenciatura en Ciencias de la Computación se ha desarrollado una metodología basada en
+Algoritmos Genéticos Autoadaptables (SAGA por sus siglas en ingles Self Adaptive Genetic Algorithms) para 
+construir modelos cuasi-lineales de ST y FT. Los SAGA son la herramienta ideal para abordar estos problemas, 
+pues permiten resolver distintas instancias de un mismo problema en forma robusta, 
+sin necesidad de realizar ajustes de parámetros. Adicionalmente a esto se cuenta con personal con experiencia en 
+la resolución de problemas de Control Indutrial utilizando técnicas de lógica difusa y Machine Learning.
+
+Por otra parte se tiene experiencia en la programación de un dispositivo que para efectos prácticos es una 
+computadora pequeña de bajo costo llamada Raspberry pi en donde se pudieran programar las funciones que permitan 
+realiza el control de algún proceso.
+ 
+Por todo lo anterior concluimos que existe una posibilidad de
+colaboración entre Ciencias de la Computación y la Industria Sonorense que, de concretarse, 
+traería grandes beneficios para el estado.
